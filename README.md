@@ -1,7 +1,6 @@
 # Links
 Links is a fun virtual card game built in Unity with C. 
 Players can compete against themselves and others to beat their best time to finish the game.
-![image](https://github.com/user-attachments/assets/27910716-558a-4c0a-9555-7185f23913a3)
 
 
 # How to Play
